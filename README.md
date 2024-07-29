@@ -35,3 +35,5 @@ Hay al menos dos perspectivas, opten por la que les resulte más atractiva:
 1. Con base en los cuatro primeros atributos listados, recomendar qué tipo de película (Acción, Drama, Romance, Ciencia ficción, Histórica) preferiría un nuevo usuario. Este nuevo usuario estará caracterizado por su edad, años de estudio, ciudad de residencia y número de pelícuas vistas el año pasado.
 
 2. Con base en los cuatro primeros atributos listados, recomendar un orden de preferencia (Acción, Drama, Romance, Ciencia ficción, Histórica) para un nuevo usuario. Este nuevo usuario estará caracterizado por su edad, años de estudio, ciudad de residencia y número de pelícuas vistas el año pasado.
+
+Haremos ambas.
